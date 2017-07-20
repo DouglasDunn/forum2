@@ -3,3 +3,4 @@
 3. Unit/ThreadTest
 4. Feature/ParticipateInThreadsTest
 5. Feature/CreateThreadsTest
+6. Unit/ChannelTest
